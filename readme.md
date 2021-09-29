@@ -2,4 +2,4 @@
 
 project going over object oriented programing in vanilla JS  
 also using 3rd party leaflet library with mapbox tileset  
-deployed @
+deployed @ https://map-oop.netlify.app/
